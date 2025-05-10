@@ -1,0 +1,28 @@
+## Olá, eu sou Thais França
+
+- 🏗 I'm currently working on: pequenos projetos em HTML, CSS e JavaScript, e principalmente Python para praticar.
+- 🌱 I'm currently learning: Git, GitHub e lógica de programação.
+- 🤝 I'm looking to collaborate on: projetos simples para ganhar experiência.
+- 😬 I'm looking for help with: boas práticas de versionamento e organização de código.
+- 💬 Ask me about: minha jornada de aprendizado ou como estou praticando.
+- ⚡ Fun fact: adoro aprender com vídeos no YouTube e praticar criando meus próprios desafios!
+
+  [![GitHub](https://github-readme-stats.vercel.app/api?username=Thaisfranca123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/Thaisfranca123)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thaisfranca123&layout=compact&langs_count=10&theme=dracula)](https://github.com/Thaisfranca123)
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+##
+
+<div> 
+  <a href="https://instagram.com/thais_dev_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/thaisfr_" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:thaisfrancadearruda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
