@@ -10,11 +10,7 @@
 
 ## 📈 Estatísticas do GitHub
 
-<div align="center">
-<img width=48% src="https://github-readme-streak-stats.herokuapp.com?user=Thaisfranca123&theme=dracula&mode=weekly" alt="GitHub Streak Stats" />
-<img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaisfranca123&show_icons=true&theme=dracula&layout=compact" alt="Top Languages" />
-</div>
----
+
 
 ##  🛠️ Habilidades 
 <div style="display: inline_block"><br>
