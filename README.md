@@ -8,7 +8,6 @@
 - 💬 Ask me about: minha jornada de aprendizado ou como estou praticando.
 - ⚡ Fun fact: adoro aprender com vídeos no YouTube e praticar criando meus próprios desafios!
 
-## 📈 Estatísticas do GitHub
 
 
 
