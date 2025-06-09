@@ -8,7 +8,7 @@
 - 💬 Ask me about: minha jornada de aprendizado ou como estou praticando.
 - ⚡ Fun fact: adoro aprender com vídeos no YouTube e praticar criando meus próprios desafios!
 
-## Estátisticas
+## 📊Estátisticas
  
 <div align="center">
 <img width=48% src="https://github-readme-streak-stats.herokuapp.com?user=Thaisfranca123&theme=dracula&mode=weekly" alt="GitHub Streak Stats" />
@@ -18,7 +18,7 @@
 
 
 
-##  🛠️ Habilidades 
+##  🛠️Habilidades 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -27,7 +27,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-## 🌐 Conecte-se Comigo:
+## 🌐Conecte-se Comigo:
 <div> 
   <a href="https://instagram.com/thais_dev_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/thaisfr_" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
