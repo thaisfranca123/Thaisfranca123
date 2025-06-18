@@ -1,7 +1,7 @@
 ## Olá, eu sou Thais França
 
 
-- 🏗 I'm currently working on: pequenos projetos em HTML, CSS e JavaScript, e principalmente Python para praticar.
+- 🏗 I'm currently working on: pequenos projetos em HTML, CSS e JavaScript, Python e Java.
 - 🌱 I'm currently learning: Git, GitHub e lógica de programação.
 - 🤝 I'm looking to collaborate on: projetos simples para ganhar experiência.
 - 😬 I'm looking for help with: boas práticas de versionamento e organização de código.
