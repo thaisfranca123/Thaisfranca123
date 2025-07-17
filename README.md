@@ -11,8 +11,9 @@
 ## 📊Estátisticas
  
 <div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisfranca123&layout=compact&theme=radical)
 
-<img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaisfranca123&show_icons=true&theme=dracula&layout=compact" alt="Top Languages" />
 </div>
 
 
