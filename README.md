@@ -8,13 +8,13 @@
 - 💬 Ask me about: minha jornada de aprendizado ou como estou praticando.
 - ⚡ Fun fact: adoro aprender com vídeos no YouTube e praticar criando meus próprios desafios!
 
-## 📊Estátisticas
- 
-<div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisfranca123&layout=compact&theme=radical)
+## 📊 Estatísticas Gerais
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thaisfranca123&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thaisfranca123&theme=radical" />
 </div>
+
 
 
 
